@@ -7,7 +7,12 @@
 ## Intro
 La prueba deberá desarrollarse en React. Es libre de utilizar la Build Tool de su preferencia.
 
-## Implementación
+## Intrucciones
+
+- El nombre del repositorio deberá tener la siguiente estructura: **nombre_apellido_prueba_frontend**
+- Cree una rama develop que contenga la informacion de su app, no realice la prueba directamente en la rama main (master)
+
+## Requerimientos
 1. Cree un header que contenga un menú de acuerdo a la diagramación. Los botones deberán generar un evento Hover en CSS según la diagramación.
 2. El espacio señalado en el banner debera tener una animación. No utilice librerias.
 3. El botón de "Pages" deberá desplegar un menú de acuerdo a la diagramación.
@@ -34,7 +39,6 @@ El pie de página deberá contener un enlace que imprima por consola (footer lin
 - Es un plus si implementa la libreria proptypes.
 - Es un plus si utiliza un preprocesador de CSS como SASS (opcional).
 - Evitar el uso de Bootstrap o Tailwind, excepto para el punto 3 (slide infinito).
-- El nombre del repositorio deberá tener la siguiente estructura: **nombre_apellido_prueba_frontend**
 - Verifique la correcta compilación de la aplicación.
 - Realizar al menos 5 commits.
 - Incluir comentarios necesarios en el código.

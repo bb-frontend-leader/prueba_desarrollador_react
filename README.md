@@ -1,4 +1,4 @@
-# Proyecto Frontend - Nombre Apellido
+# Prueba desarrollador frontend React
 
 ## Diagramacion
 

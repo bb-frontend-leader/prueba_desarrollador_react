@@ -36,13 +36,13 @@ El pie de página deberá contener un enlace que imprima por consola (footer lin
 **Recomendaciones:**
 - Es de vital importancia que maneje el paradigma de la biblioteca React (paradigma orientado a componentes); es decir, procure la correcta componentización de la app.
 - Es sumamente importante el diseño responsivo de la app.
-- Es un plus si implementa la libreria proptypes.
+- Es un plus si implementa la libreria prop-types.
 - Es un plus si utiliza un preprocesador de CSS como SASS (opcional).
-- Evitar el uso de Bootstrap o Tailwind, excepto para el punto 3 (slide infinito).
+- Evitar el uso de librerias como Bootstrap o Tailwind, excepto para el punto 3 (slide infinito).
 - Verifique la correcta compilación de la aplicación.
 - Realizar al menos 5 commits.
 - Incluir comentarios necesarios en el código.
-- Puede desplegar el proyecto en el host de su preferencia, sin embargo, lo más importante será el código (opcional).
+- Es un plus si despliega el proyecto en el host de su preferencia (ej. Netlify), sin embargo, lo más importante será el código (opcional).
 
 **Colores:**
 - #0C1726
